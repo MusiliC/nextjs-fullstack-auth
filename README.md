@@ -42,4 +42,4 @@ For forgot password feature.
 ## your completed assignments
 
 - Add your repo link here
-- 
+- my completed assignment - https://github.com/MusiliC/complete-authentication-next-email-verification-and-password-reset
